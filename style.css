@@ -11,7 +11,8 @@ body {
 
 body {
   width: 100%;
-  background-color: #000;
+  background-image: url("pexels-pixabay-220118.jpg");
+  /*background-color: rgb(103, 74, 74);*/
   font-size: 20px;
   display: flex;
   justify-content: center;
